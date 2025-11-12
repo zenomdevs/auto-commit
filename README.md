@@ -1,4 +1,4 @@
-# 🚀 Upload Automático para GitHub
+## 🚀 Upload Automático para GitHub
 
 Um script simples e divertido para enviar pastas do **Termux** para o GitHub automaticamente!  
 
@@ -31,33 +31,33 @@ Este script faz tudo por você:
 
 ## 🚀 Como usar, Obs: (configure o USER/REPO no arquivo.)
 
-## 1. Baixe ou clone o script `upload.sh` na pasta do seu projeto.  
+1. Baixe ou clone o script `upload.sh` na pasta do seu projeto.  
 
 ---
 
-## 2. Edite no arquivo o campo usuário e repositório 
+2. Edite no arquivo o campo usuário e repositório. 
 
 ---
 
-## 3. Abra o Termux e acesse pasta do projeto:
+3. Abra o Termux e acesse pasta do projeto:
 ```
 cd /sdcard/caminho/da/pasta
 ```
 
 ---
 
-## 4. Depois de configurar REPO, use no termux:
+4. Depois de configurar REPO, use no termux:
 ```
 sh upload.sh
 ```
 
 ---
 
-## 5. Vai pedir o seu token, você cola e dá enter.
+5. Vai pedir o seu token, você cola e dá enter.
 
 ---
 
-## 6. Aparecerá a mensagem de concluído e seu projeto já vai estar no GitHub.
+6. Aparecerá a mensagem de concluído e seu projeto já vai estar no GitHub.
 
 ---
 
