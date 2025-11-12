@@ -25,7 +25,7 @@ Este script faz tudo por você:
 - Termux no Android  
 - Git instalado (`pkg install git`)  
 - Token no GitHub  
-- [Personal Access Token](https://github.com/settings/tokens) com permissão `repo`  
+- [Access Token](https://github.com/settings/tokens) com permissão `repo`  
 ---
 ## 🤖 Configure o user/repo
 ---
