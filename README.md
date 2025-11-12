@@ -1,4 +1,4 @@
-## 🚀 Upload Automático para GitHub
+## 🚀 Upload Automático
 
 Um script simples e divertido para enviar pastas do **Termux** para o GitHub automaticamente!  
 
