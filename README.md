@@ -28,37 +28,25 @@ Este script faz tudo por você:
 - [Personal Access Token](https://github.com/settings/tokens) com permissão `repo`  
 
 ---
-
-## 🚀 Como usar, Obs: (configure o USER/REPO no arquivo.)
-
-1. Baixe ou clone o script `upload.sh` na pasta do seu projeto.  
-
+Aviso, Como usar: (configure o user/repo no arquivo.)
 ---
-
+- 1. Baixe ou clone o script `upload.sh` na pasta do seu projeto.  
+---
 2. Edite no arquivo o campo usuário e repositório. 
-
 ---
-
-3. Abra o Termux e acesse pasta do projeto:
+3. Abra o Termux e acesse seu projeto:
 ```
 cd /sdcard/caminho/da/pasta
 ```
-
 ---
-
 4. Depois de configurar REPO, use no termux:
 ```
 sh upload.sh
 ```
-
 ---
-
 5. Vai pedir o seu token, você cola e dá enter.
-
 ---
-
 6. Aparecerá a mensagem de concluído e seu projeto já vai estar no GitHub.
-
 ---
 
 ## ✅️ Processo concluído!
