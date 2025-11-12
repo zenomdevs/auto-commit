@@ -27,7 +27,7 @@ Este script faz tudo por você:
 - Token no GitHub  
 - [Personal Access Token](https://github.com/settings/tokens) com permissão `repo`  
 ---
-## 🩵 (configure o user/repo)
+## 🤖 Configure o user/repo
 ---
 1. Baixe ou clone o script `upload.sh` na pasta do seu projeto.  
 ---
