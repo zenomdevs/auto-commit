@@ -3,9 +3,9 @@
 # =========================
 # CONFIGURAÇÕES
 # =========================
-REPO="zenodexx/nolan"
+REPO="usuario/repositorio"
 # ⚠️ Altere para seu usuário/repositorio
-COMMIT_MSG="Update Nolan v6"
+COMMIT_MSG="New Commit"
 # Mensagem do commit
 BRANCH="main"
 # Branch principal
