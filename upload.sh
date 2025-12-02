@@ -21,7 +21,7 @@ NC='\033[0m'
 echo "${CYAN}💻 Verificando Git..${NC}"
 if ! command -v git &> /dev/null; then
 echo "${CYAN}⚠️ Git não encontrado. Instalando...${NC}"
-pkg update -y && pkg install git -y
+apt update -y && apt install git -y
 else
 echo "${CYAN}✅ Git encontrado!${NC}"
 fi
